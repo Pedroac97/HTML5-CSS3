@@ -3,4 +3,4 @@
 
  Criei esse repositório para ajudar os iniciantes em HTML, por meio de demonstrações práticas e resumidas, de cada função, tanto por meio do manual em PDF, quanto por códigos em si.  
 
- Confira o manual em : [Manual HTML e CSS](https://github.com/Pedroac97/HTML5-CSS3/tree/master/Manual%20em%20PDF)
+ Confira o manual em : [Manual HTML e CSS](https://github.com/Pedroac97/HTML5-CSS3/blob/master/Manual%20em%20PDF/Manual%20HTML5%20e%20CSS%203.pdf)
