@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    background-color:#00000026;
+}
+form{
+    margin-left: 41vw;
+    width: 205px;
+    padding: 13px 20px 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+    background-color: #fff;
+}
+header{
+	background-color: #036704;
+	height: 3em;
+	color: #FFF;
+	margin-bottom: 1em;
+}
+h1,h5{
+	padding-top: 5px;
+    text-align: center;
+    margin: 0;
+}
+footer{
+	background-color: #333;
+	width: 100%;
+    padding-bottom: 5px;
+    color: #FFF;
+    position: fixed;
+    z-index: 1000;
+    bottom: 0;
+}
