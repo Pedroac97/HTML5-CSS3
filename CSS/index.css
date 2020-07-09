@@ -16,7 +16,7 @@ header{
 	color: #FFF;
 	margin-bottom: 1em;
 }
-h1,h5{
+h1,h2,h5{
 	padding-top: 5px;
     text-align: center;
     margin: 0;
@@ -30,10 +30,48 @@ footer{
     z-index: 1000;
     bottom: 0;
 }
+
+/* index e paginas de navegação*/
+.conteudos{
+    margin-bottom: 40px;
+}
+article{
+	margin-bottom: 15px !important;
+	background-color: white;
+    width: 560px;
+    margin: auto;
+    padding: 10px 15px;
+	box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+	border-radius: 15px;
+}
+.btn .link{
+	text-align: center;
+    padding: .5em 2em;
+    border: 0;
+    border-radius: 10px;
+    border-bottom: 3px solid;
+    font-size: 1.2em;
+    cursor: pointer;
+    margin: 0;
+    color: #fff;
+    background-color: #0c8cd3;
+    border-color: #04324c;
+    width: 20%;
+    margin: 10px 0px;
+    margin-left: 30vh;
+    transition: 0.3s;
+} 
+.link:hover{
+    border-bottom: 0px;
+}
+
+/* Formularios */
 form.form3{
     margin-left: 38vw;
     width: 325px;
 }
+
+/* Tabelas */
 table{
     margin-left: 39vw;
 }
