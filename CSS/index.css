@@ -2,7 +2,7 @@ body{
     margin: 0;
     background-color:#00000026;
 }
-form{
+form, table{
     margin-left: 41vw;
     width: 205px;
     padding: 13px 20px 20px;
@@ -29,4 +29,11 @@ footer{
     position: fixed;
     z-index: 1000;
     bottom: 0;
+}
+form.form3{
+    margin-left: 38vw;
+    width: 325px;
+}
+table{
+    margin-left: 39vw;
 }
