@@ -70,10 +70,16 @@ article{
 }
 div.lista{
     width: 10vw;
-    height: 90px;
+    height: 95px;
 }
-dl{
+ul div.min{
+    height: 50px;
+}
+.lista dl,.lista li{
     position: absolute;
+}
+.lista dl:nth-child(2), .lista li:nth-child(2){
+    margin-left: 10vw;
 }
 /* Formularios */
 form.form3{
