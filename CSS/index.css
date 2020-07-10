@@ -58,13 +58,19 @@ article{
     border-color: #04324c;
     width: 20%;
     margin: 10px 0px;
-    margin-left: 30vh;
+    margin-left: 14vw;
     transition: 0.3s;
 } 
 .link:hover{
     border-bottom: 0px;
 }
-
+div.lista{
+    width: 10vw;
+    height: 90px;
+}
+dl{
+    position: absolute;
+}
 /* Formularios */
 form.form3{
     margin-left: 38vw;

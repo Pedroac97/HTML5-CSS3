@@ -1,0 +1,16 @@
+article {
+    width: 25vw;
+    margin: 0;
+}
+.btn .link {  
+    width: 8vw; 
+    margin-left: 5vw;
+}
+/* .duplas article:nth-child(2) {
+    margin-left: 50vw;
+}
+
+.duplas article{
+    margin-left: 20vw;
+    position: absolute;
+} */
