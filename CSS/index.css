@@ -16,6 +16,10 @@ header{
 	color: #FFF;
 	margin-bottom: 1em;
 }
+.voltar {
+    position: absolute;
+    margin-left: -82px;
+}
 h1,h2,h5{
 	padding-top: 5px;
     text-align: center;
